@@ -10,5 +10,5 @@ add batter with tasty ingrident
 
 ##karam-dosa 
 dosa batter added
-karam
+erra karam
 oil
