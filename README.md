@@ -14,6 +14,7 @@ erra karam
 oil
 
 
+
 ## egg dosa 
 * dosa batter added
-** 2 eggs karam
+** 1/2 eggs karam
