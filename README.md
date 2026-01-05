@@ -14,12 +14,16 @@ erra karam
 oil
 
 
+--egg-dosa 
+dosa batter
+egg karam
+
 --mashroom-dosa
 batter added 
 oil added
-butter added
+carrot
 
 
-## egg dosa 
-* dosa batter added
-** 1/2 eggs karam
+
+--panner dosa 
+add batter
