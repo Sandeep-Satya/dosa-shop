@@ -23,3 +23,7 @@ egg karam
 batter added 
 oil added
 butter added
+
+## egg dosa 
+* dosa batter added
+** 1/2 eggs karam
